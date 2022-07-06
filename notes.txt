@@ -1,0 +1,204 @@
+
+Halo semua, salam kenal.
+M. Fandi Arfabuma
+
+Seorang Frontend Developer, tertarik pada interaktif, desain antarmuka, dan optimalisasi website dan aplikasi mobile. Saat ini, aku sedang fokus belajar React & Flutter.
+
+-----
+Cerita Tentang Aku
+
+Jadi, inilah aku. Namaku Fandi dari Indonesia. Suka programming dan desain.
+
+Aku mengenal programming berawal dari aku di tahun 2013 yang bersekolah di salah satu SMK di kota Malang dan memilih jurusan RPL. Kenapa aku suka programming? Itu karena menurutku programming adalah permainan logika. Setelah mengenal lebih dalam tentang programming, kemudian aku dikenalkan dengan web programming ketika magang di suatu perusahaan. Dan sejak saat itulah aku mengenal HTML, CSS, dan Javascript.
+
+Seiring berjalannya waktu, aku dipercayakan ikut dalam projek untuk membuat sebuah website ujian untuk sekolahku. Setelah lulus dari sekolah, aku melanjutkan belajar ke universitas di Malang dan mengambil bidang Informatika. Aku mengenal namanya Artificial Intelligence, Machine Learning, dan Data Mining. Menurutku bidang tersebut sangat sulit untuk dipahami, tapi menarik untuk dibahas.
+
+Sebelum lulus sarjana, aku ikut dalam sebuah tim startup yang membuat sebuah aplikasi dan media inovasi yang disruptif. Dan saat ini pun aku membantu pada bagian frontend.
+
+-----
+Kemampuan
+Beberapa teknologi yang telah dicoba:
+- React
+- TailwindCSS
+- Javascript
+- HTML
+- CSS
+- Flutter
+- Dart
+- Node.js
+- Firebase
+- Python
+- VueJS
+- Bootstrap
+- JQuery
+- Laravel
+- Codeigniter
+- PHP
+- MySQL
+
+Softskill
+- Komunikasi
+- Kolaborasi
+- Problem Solving
+- Keingintahuan
+- Adaptif
+------
+Pengalaman
+
+Dicoding
+React Developer | Kursus
+Juni 2022 - Juli 2022
+- Memilih jalur belajar React Developer, agar mengerti dan memahami tentang ReactJS.
+- Terdapat 4 kelas yang perlu diselesaikan.
+- Belajar membuat aplikasi web sederhana: landing page responsif, aplikasi rak buku, dan aplikasi catatan.
+
+PT. Inovasi Utama Nusantara
+Frontend Developer | Kerja Full-time
+Juli 2020 - Saat ini
+- Mengerjakan banyak sekali projek: MuseAkademi, Locahubie, Hi Nano, FoodieMu, Idbookstore.
+- Bekerja dengan berbagai teknologi untuk membangun website dan aplikasinya: Bootstrap, TailwindCSS, VueJS, Flutter, React.
+- Selalu berkomunikasi dengan UI/UX Designer dan Backend Developer.
+
+PUIPT DLI UM
+IT Support | Magang
+Juli 2019 - Juli 2020
+- Membantu dalam membuatkan web company profile dan web konferensi jurnal menggunakan Bootstrap, HTML, CSS, Javascript, dan Codeigniter.
+- Mengikuti dan membantu kegiatan workshop dan seminar yang diadakan.
+- Mengikuti pameran teknologi di Bali
+
+CV. Girisa Teknologi
+Web Developer | Magang
+Januari 2015 - Juni 2015
+- Membantu dalam membuat fitur website rekap data hotel menggunakan Bootstrap dan JQuery.
+- Bekerja dengan salah satu teman sekelas dan siswa dari sekolah lain.
+- Diterima magang walaupun mendemokan website CRUD yang error :D
+
+-------
+Projek yg dibuat
+
+Aplikasi Catatan
+- 2022
+- Dicoding
+- React, Javascript, HTML, CSS 
+- url: https://fandiarfa26-notes-app.vercel.app/
+  github: https://github.com/fandiarfa26/Dicoding/tree/master/submission_reactjs
+
+Aplikasi Rak Buku
+- 2022
+- Dicoding
+- Javascript, HTML, CSS
+- url: https://fandiarfa26.github.io/Dicoding/submission_fe_pemula/
+  github: https://github.com/fandiarfa26/Dicoding/tree/master/submission_fe_pemula
+
+Landing Page Interaktif & Responsif
+- 2022
+- Dicoding
+- Javascript, HTML, CSS
+- url: https://fandiarfa26.github.io/Dicoding/submission_web_dasar/
+  github: https://github.com/fandiarfa26/Dicoding/tree/master/submission_web_dasar
+
+Admin Hi Nano
+- 2022
+- PT. Inovasi Utama Nusantara
+- React, Tailwind CSS, Javascript
+- url: https://admin-hinano.vercel.app/
+
+Hand Emoji
+- 2022
+- x
+- Flutter, Dart, Machine Learning
+- url: x
+  video: https://www.instagram.com/reel/CYgust7qdqW/
+
+Starter Flutter
+- 2021
+- x
+- Flutter, Dart
+- url: x
+  github: https://github.com/fandiarfa26/starter_flutter
+
+Hi Nano App
+- 2021
+- PT. Inovasi Utama Nusantara
+- Flutter, Dart, Firebase
+- url: x
+  image: 
+
+Website Profil
+- 2021
+- x
+- TailwindCSS, VueJS, Javascript
+- url: https://fandiarfa26.github.io/
+  github: https://github.com/fandiarfa26/fandiarfa26.github.io
+
+FoodieMu App
+- 2021
+- PT. Inovasi Utama Nusantara
+- Flutter, Dart, Firebase
+- url: https://foodiemu.com/
+  playstore: https://play.google.com/store/apps/details?id=com.foodiemu.customer
+
+Sistem Automatic Text Summarization
+- 2020
+- x
+- NuxtJS, VueJS, Javascript
+- url: https://fandiarfa26.github.io/arfa-summary/
+  github: https://github.com/fandiarfa26/arfa-summary
+
+Backend Sistem ATS
+- 2020
+- x
+- Flask, Python
+- url: https://fandiarfa26.github.io/arfa-summary/
+  github: https://github.com/fandiarfa26/api-textrank
+
+Locahubie
+- 2020
+- PT. Inovasi Utama Nusantara
+- Tailwind CSS, VueJS, Javascript
+- url: https://locahubie.com/
+
+MuseAkademi
+- 2020
+- PT. Inovasi Utama Nusantara
+- Bootstrap, CSS, HTML
+- url: https://museakademi.com/
+
+Cover Book Maker
+- 2020
+- x
+- PHP, Javascript, HTML, CSS
+- github: https://github.com/fandiarfa26/cover_book_maker
+
+Website ICLI 2020
+- 2020
+- PUIPT DLI UM
+- Codeigniter, PHP, HTML, CSS
+- github: https://github.com/fandiarfa26/icli2020
+
+Website PUIPT DLI UM
+- 2020
+- PUIPT DLI UM
+- Codeigniter, HTML, CSS
+- url: http://dli.um.ac.id/
+
+Idbookstore
+- 2020
+- PUIPT DLI UM
+- Codeigniter, Bootstrap, Javascript
+- url: https://idbookstore.id/
+
+-------
+Kontak
+
+Terima kasih. Jika kamu memiliki pertanyaan, emailku selalu terbuka untuk siapapun. Kita dapat berdiskusi dan bisa jadi berkolaborasi.
+
+Hubungi Aku.
+
+
+-------
+github: https://github.com/fandiarfa26
+instagram: https://www.instagram.com/fandiarfa/
+facebook: https://www.facebook.com/fandiarfa26
+linkedin: https://www.linkedin.com/in/arfabuma/
+email: arfabuma.987@gmail.com
