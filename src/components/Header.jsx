@@ -2,31 +2,13 @@ import React, { useState } from 'react'
 import Logo from './Logo'
 import ScrollIntoView from 'react-scroll-into-view'
 import { FiX } from 'react-icons/fi'
+import { menus } from '../utils/data'
+import { useRecoilState } from 'recoil'
+import { currentLanguage } from '../utils/recoil'
+import { translate } from '../utils/translate'
 
 const Header = () => {
-  const menus = [
-    {
-      label: 'Tentang',
-      target: '#about'
-    },
-    {
-      label: 'Kemampuan',
-      target: '#skill'
-    },
-    {
-      label: 'Pengalaman',
-      target: '#experience'
-    },
-    {
-      label: 'Projek',
-      target: '#project'
-    },
-    {
-      label: 'Kontak',
-      target: '#contact'
-    },
-  ];
-
+  const [language, setLanguage] = useRecoilState(currentLanguage);
   const [navOpen, setNavOpen] = useState(false);
 
   return (
@@ -41,10 +23,14 @@ const Header = () => {
         {
           menus.map((menu, i) => (
             <ScrollIntoView selector={menu.target} key={i}>
-              <a href="#!" onClick={() => setNavOpen(false)}><span>{`0${i+1}.`}</span>{menu.label}</a>
+              <a href="#!" onClick={() => setNavOpen(false)}><span>{`0${i+1}.`}</span>{ translate[language][menu.label]}</a>
             </ScrollIntoView>
           ))
         }
+        <select className="select-languages" onChange={(e) => setLanguage(e.target.value)}>
+          <option value="id" selected={language === 'id'}>ID</option>
+          <option value="en" selected={language === 'en'}>EN</option>
+        </select>
       </nav>
     </header>
   )

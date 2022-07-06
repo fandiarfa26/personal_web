@@ -8,6 +8,7 @@ import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Social from "./components/Social";
+import { RecoilRoot } from "recoil";
 
 function App() {
   useEffect(() => {
@@ -15,6 +16,7 @@ function App() {
   });
 
   return (
+    <RecoilRoot>
     <div>
       <Header />
       <main>
@@ -28,6 +30,7 @@ function App() {
       </main>
       <Footer/>
     </div>
+    </RecoilRoot>
   );
 }
 

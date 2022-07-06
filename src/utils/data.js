@@ -1,3 +1,25 @@
+const menus = [
+  {
+    label: 'Tentang',
+    target: '#about'
+  },
+  {
+    label: 'Kemampuan',
+    target: '#skill'
+  },
+  {
+    label: 'Pengalaman',
+    target: '#experience'
+  },
+  {
+    label: 'Projek',
+    target: '#project'
+  },
+  {
+    label: 'Kontak',
+    target: '#contact'
+  },
+];
 
 const skills = {
   hard: [
@@ -25,6 +47,11 @@ const experiences = [
       'Memilih jalur belajar React Developer, agar mengerti dan memahami tentang ReactJS.',
       'Terdapat 4 kelas yang perlu diselesaikan.',
       'Belajar membuat aplikasi web sederhana: landing page responsif, aplikasi rak buku, dan aplikasi catatan.'
+    ],
+    notes_en: [
+      'Choosing the React Developer learning path, in order to understand and understand about ReactJS.',
+      'There are 4 classes that need to be completed.',
+      'Learn to create simple web apps: responsive landing pages, bookshelf apps, and notes apps.',
     ]
   },
   {
@@ -36,6 +63,11 @@ const experiences = [
       'Mengerjakan banyak sekali projek: MuseAkademi, Locahubie, Hi Nano, FoodieMu, Idbookstore.',
       'Bekerja dengan berbagai teknologi untuk membangun website dan aplikasinya: Bootstrap, TailwindCSS, VueJS, Flutter, React.',
       'Selalu berkomunikasi dengan UI/UX Designer dan Backend Developer.'
+    ],
+    notes_en: [
+      'Worked on a lot of projects: MuseAkademi, Locahubie, Hi Nano, FoodieMu, Idbookstore.',
+      'Work with various technologies to build websites and their applications: Bootstrap, TailwindCSS, VueJS, Flutter, React.',
+      'Always communicate with UI/UX Designer and Backend Developer.'
     ]
   },
   {
@@ -47,6 +79,11 @@ const experiences = [
       'Membantu dalam membuatkan web company profile dan web konferensi jurnal menggunakan Bootstrap, HTML, CSS, Javascript, dan Codeigniter.',
       'Mengikuti dan membantu kegiatan workshop dan seminar yang diadakan.',
       'Mengikuti pameran teknologi di Bali.'
+    ],
+    notes_en: [
+      'Help in making web company profiles and web conference journals using Bootstrap, HTML, CSS, Javascript, and Codeigniter.',
+      'Follow and assisting the workshops and seminars held.',
+      'Follow a technology exhibition in Bali.'
     ]
   },
   {
@@ -58,6 +95,11 @@ const experiences = [
       'Membantu dalam membuat fitur website rekap data hotel menggunakan Bootstrap dan JQuery.',
       'Bekerja dengan salah satu teman sekelas dan siswa dari sekolah lain.',
       'Diterima magang walaupun mendemokan website CRUD yang error :D'
+    ],
+    notes_en: [
+      'Help in creating a hotel data recap website feature using Bootstrap and JQuery.',
+      'Working with one of the classmates and students from another school.',
+      'Accepted an internship despite demonstrating the error CRUD website :D'
     ]
   },
 ];
@@ -236,4 +278,4 @@ const social = {
   email: 'arfabuma.987@gmail.com',
 };
 
-export {skills, experiences, projects, social};
+export {menus, skills, experiences, projects, social};

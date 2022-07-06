@@ -1,17 +1,21 @@
 import React from 'react'
 import {FiArrowDown} from 'react-icons/fi';
 import ScrollIntoView from 'react-scroll-into-view'
+import { useRecoilValue } from 'recoil';
+import { currentLanguage } from '../utils/recoil';
+import { translate } from '../utils/translate'
 
 const Hero = () => {
+  const language = useRecoilValue(currentLanguage);
   return (
     <section id="hero" className='page-section'>
       <div className="hero__wrapper">
-        <div className="hero__greeting">Halo semua, salam kenal.</div>
+        <div className="hero__greeting">{ translate[language]['_halo'] }</div>
         <h1 className="hero__name">M. Fandi Arfabuma</h1>
-        <p className="hero__bio">Seorang <span>Frontend Developer</span>, tertarik pada interaktif, desain antarmuka, dan optimalisasi website dan aplikasi mobile. Saat ini, aku sedang fokus belajar <span>React & Flutter</span>.</p>
+        <p className="hero__bio">{ translate[language]['Seorang'] } <span>Frontend Developer</span>, { translate[language]['_bio'] } <span>React & Flutter</span>.</p>
         <ScrollIntoView selector="#about">
           <button type="button" className="hero__button">
-            Tentang Aku
+            { translate[language]['Tentang Aku'] }
             <FiArrowDown className='icon'/>
           </button>
         </ScrollIntoView>
