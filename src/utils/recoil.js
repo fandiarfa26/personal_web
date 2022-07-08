@@ -2,7 +2,7 @@ import { atom } from "recoil";
 
 const isThemeDark = atom({
   key: 'is-theme-dark',
-  default: false,
+  default: window.matchMedia("(prefers-color-scheme: dark)").matches,
 })
 
 const isNavOpen = atom({

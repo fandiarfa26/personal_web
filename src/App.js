@@ -13,12 +13,18 @@ import { isThemeDark } from "./utils/recoil";
 
 function App() {
   const isDark = useRecoilValue(isThemeDark);
+
   useEffect(() => {
     document.title = "M. Fandi Arfabuma";
   });
 
   useEffect(() => {
-    document.documentElement.classList.toggle('dark');
+    if (isDark) {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+
+    }
   }, [isDark])
 
   return (
