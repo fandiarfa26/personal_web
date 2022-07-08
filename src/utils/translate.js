@@ -7,7 +7,7 @@ const translate = {
     'Kontak': 'Kontak',
     '_halo': 'Halo semua, salam kenal.',
     'Seorang': 'Seorang',
-    '_bio': 'tertarik dengan desain antarmuka interaktif dan pengoptimalan situs web dan aplikasi seluler. Saat ini fokus belajar',
+    '_bio': 'tertarik dengan desain antarmuka interaktif dan pengoptimalan website dan aplikasi mobile. Saat ini fokus belajar',
     'Tentang Aku': 'Tentang Aku',
     'Cerita Tentang Aku': 'Cerita Tentang Aku',
     '_cerita1': 'Namaku Fandi dari Indonesia. Suka pemrograman dan desain.',
