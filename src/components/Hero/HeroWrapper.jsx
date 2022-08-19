@@ -3,6 +3,7 @@ import HeroAboutButton from './HeroAboutButton'
 import HeroBio from './HeroBio'
 import HeroGreeting from './HeroGreeting'
 import HeroName from './HeroName'
+import HeroResumeButton from './HeroResumeButton'
 
 const HeroWrapper = () => {
   return (
@@ -10,6 +11,7 @@ const HeroWrapper = () => {
       <HeroGreeting/>
       <HeroName/>
       <HeroBio/>
+      <HeroResumeButton/>
       <HeroAboutButton/>
     </div>
   )
