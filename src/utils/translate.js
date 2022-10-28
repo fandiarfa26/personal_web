@@ -79,6 +79,7 @@ const translate = {
     'Nama': 'Name',
     'Asosiasi': 'Association',
     'Teknologi': 'Technologies',
+    'Website Undangan Pernikahan': 'Wedding Invitation Website',
     'Aplikasi Catatan': 'Note App',
     'Aplikasi Rak Buku': 'Bookshelf App',
     'Landing Page Interaktif & Responsif': 'Interactive & Responsive Landing Page',
