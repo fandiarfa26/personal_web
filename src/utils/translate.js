@@ -13,7 +13,7 @@ const translate = {
     '_cerita1': 'Namaku Fandi dari Indonesia. Suka pemrograman dan desain.',
     '_cerita2': 'Aku mengenal pemrograman pada tahun 2013 ketika bersekolah di salah satu SMK. Kenapa aku suka pemrograman? Itu karena menurutku pemrograman seperti permainan logika. Kemudian aku mulai menyukai dengan pemrograman web saat magang di sebuah software house.',
     '_cerita3': 'Seiring waktu, aku ditugaskan dalam sebuah projek untuk membuat web ujian online untuk sekolah. Setelah lulus sekolah, aku melanjutkan kuliah di universitas dan mengambil jurusan informatika. Disitulah aku mengenal Artificial Intelligence, Machine Learning, dan Data Mining. Menurutku itu ilmu yang sulit, tapi menarik.',
-    '_cerita4': 'Sebelum lulus, saya sudah bekerja di sebuah lembaga yang mengembangkan aplikasi dan media inovasi yang disruptif. Sampai saat ini, aku membantu pada bagian pengembangan frontend.',
+    '_cerita4': 'Sebelum lulus, aku sudah bekerja di sebuah lembaga yang mengembangkan aplikasi dan media inovasi yang disruptif. Sampai saat ini, aku membantu pada bagian pengembangan frontend.',
     '_skill1': 'Beberapa teknologi yang telah dicoba',
     '_skill2': 'Kemampuan untuk mendukung pekerjaan',
     'Adaptif': 'Adaptif',

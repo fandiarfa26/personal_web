@@ -106,6 +106,15 @@ const experiences = [
 
 const projects = [
   {
+    name: 'Website Undangan Pernikahan',
+    year: '2022',
+    assoc: '-',
+    tech: ['TailwindCSS', 'React', 'Javascript'],
+    links: {
+      url: 'https://mithafandi.vercel.app/to/ab12-Seseorang',
+    },
+  },
+  {
     name: 'Aplikasi Catatan',
     year: '2022',
     assoc: 'Dicoding',
@@ -133,6 +142,16 @@ const projects = [
     links: {
       url: 'https://fandiarfa26.github.io/Dicoding/submission_web_dasar/',
       github: 'https://github.com/fandiarfa26/Dicoding/tree/master/submission_web_dasar',
+    },
+  },
+  {
+    name: 'Personal Website',
+    year: '2022',
+    assoc: '-',
+    tech: ['TailwindCSS', 'React', 'Javascript'],
+    links: {
+      url: 'https://fandiarfa26.vercel.app/',
+      github: 'https://github.com/fandiarfa26/personal_web',
     },
   },
   {
